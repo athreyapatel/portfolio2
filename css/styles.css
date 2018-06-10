@@ -42,6 +42,9 @@
 .footbold{
   font-weight: bold;
 }
+.footclr{
+  background-color: #878787;
+}
 .fa {
   padding: 10px;
   font-size: 60px;
