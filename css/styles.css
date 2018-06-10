@@ -1,0 +1,70 @@
+.container {
+ 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif
+ 	color: #878787;
+}
+.logo{
+  width: 50px;
+}
+.centerimg{
+  display: inline;
+  width:150px;
+  height:150px;
+}
+.colproj{
+  color: green;
+}
+.centeredit{
+  background-color: #1abc9c;
+  color: #ffffff;
+}
+.container-fluid {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+.navbar {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: 0;
+  border-radius: 0;
+  margin-bottom: 0;
+  font-size: 12px;
+  letter-spacing: 5px;
+}
+.navbar-nav  li a:hover {
+  color: #1abc9c !important;
+}
+.projhead{
+  font-weight: bold;
+}
+.projimg{
+  width: 100%;
+}
+.footbold{
+  font-weight: bold;
+}
+.fa {
+  padding: 10px;
+  font-size: 60px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 40%;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+.fa-github {
+  background: #6cc644;
+  color: white;
+}
+.footerp{
+  text-align: center;
+}
